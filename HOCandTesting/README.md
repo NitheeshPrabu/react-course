@@ -1,3 +1,7 @@
+# Higher Order Components and Testing Basics
+
+Contains demo code to illustrate usage of HoCs and testing using Jest, Enzyme and Moxios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
